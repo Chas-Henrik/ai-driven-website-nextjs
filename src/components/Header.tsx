@@ -14,7 +14,7 @@ function Header(): React.JSX.Element {
             <Link className={styles.liItem} href="/fetch" scroll={false}>
                 <p>Fetch</p>
             </Link>
-            <Link className={styles.liItem} href="/signup" scroll={false}>
+            <Link className={styles.liItem} href="/server" scroll={false}>
                 <p>Server Component</p>
             </Link>
         </ul>
